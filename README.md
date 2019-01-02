@@ -1,4 +1,4 @@
-Dockerfile for Dubian stretch with systemd
+Dockerfile for Dubian jessie with systemd
 
 
 ## Usage
